@@ -1,0 +1,27 @@
+{
+  "name": "fbm-csv2fhir-gateway",
+  "version": "1.0.0",
+  "description": "FBM_csv2fhir_gateway",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickknHsiao/FBM-csv2fhir-Gateway.git"
+  },
+  "author": "Wayne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickknHsiao/FBM-csv2fhir-Gateway/issues"
+  },
+  "homepage": "https://github.com/NickknHsiao/FBM-csv2fhir-Gateway#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "csvtojson": "^2.0.10",
+    "fast-csv": "^4.3.6",
+    "json-bigint": "^1.0.0",
+    "moment": "^2.29.1",
+    "xlsx": "^0.17.0"
+  }
+}

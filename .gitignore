@@ -1,0 +1,6 @@
+.vs/
+.vscode/
+node_modules/
+RESULT/
+data/
+csv2fhir/GenomeReference/
